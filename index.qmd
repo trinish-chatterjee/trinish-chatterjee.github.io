@@ -24,6 +24,8 @@ about:
 
 Hi! My name is Trinish and I'm a PhD Candidate studying **extreme events** under a **changing climate**. I used to be an electrical engineer in the telecom industry before switching fields to pursue my passion: **figuring out how we can adapt to a warming, riskier world**. 
 
+Have a question, interest in collaboration, or just want to connect? I'd love to hear from you! 
+
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
   <a class="btn btn-outline-secondary btn-sm"
      href="mailto:tc3217@columbia.edu">
@@ -110,8 +112,15 @@ I am interested in applying my research towards:
   </p>
 </section>
 
-## Contact
-Have a question, interest in collaboration, or just want to connect? I'd love to hear from you! Email me at [tc3217\@columbia\.edu](mailto:tc3217@columbia.edu).
+## Publications
+
+**Chatterjee, T.**, Touma, D., Sobel, A. H., & Horton, R. (*in review*). Climatology and Trends in Spatial Scales of Extreme Precipitation in the Contiguous US. *Geophysical Research Letters*.  Preprint Available from: [https://essopenarchive.org/doi/full/10.22541/essoar.176518093.32879629](https://essopenarchive.org/doi/full/10.22541/essoar.176518093.32879629)
+
+Seeteram, N., Shi, L., Mach, K., Carrère, A., **Chatterjee, T.**, Garner, A., & Horton, R. (2025, *pre-publication*). Challenges and opportunities in scaling climate-resilient housing solutions. *Nature Communications*. [https://doi.org/10.21203/rs.3.rs-6322825/v1](https://doi.org/10.21203/rs.3.rs-6322825/v1)
+
+
+Sprague, N. L., Uong, S. P., Zonnevylle, H., **Chatterjee, T.**, Hernández, D., Rundle, A. G., & Ekenga, C. C. (2024). The CHANGE (Climate Health ANalysis Grading Evaluation) tool for weight of evidence reviews on climate change and health research. *Environmental Health*, 23(1), 7. [https://doi.org/10.1186/s12940-023-01040-4](https://doi.org/10.1186/s12940-023-01040-4)
+
 
 ## Education and Work Experience
 
