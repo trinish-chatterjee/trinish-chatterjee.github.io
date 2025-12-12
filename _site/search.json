@@ -4,49 +4,7 @@
     "href": "index.html",
     "title": "Trinish Chatterjee",
     "section": "",
-    "text": "Hi! My name is Trinish and I’m a PhD Candidate studying extreme events under a changing climate. I used to be an electrical engineer in the telecom industry before switching fields to pursue my passion: figuring out how we can adapt to a warming, riskier world."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Trinish Chatterjee",
-    "section": "Education",
-    "text": "Education\nColumbia University | New York, NY\nSept 2022 - Present\nPhD Candidate in Earth and Environmental Sciences  Expected Graduation: Summer 2027\nAdvisor: Radley Horton, Columbia Climate School\nUniversity of Maryland, College Park | College Park, MD\n2015 - 2019\nMajor in Electrical Engineering, Minor in Asian-American Studies\nGPA: 3.95/4.0, Cum Laude\nBanneker-Key Full Merit Scholarship\n\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Trinish Chatterjee",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Trinish Chatterjee",
-    "section": "Contact",
-    "text": "Contact\nHave a question, interest in collaboration, or just want to connect? I’d love to hear from you! Email me at tc3217@columbia.edu."
-  },
-  {
-    "objectID": "index.html#education-and-work-experience",
-    "href": "index.html#education-and-work-experience",
-    "title": "Trinish Chatterjee",
-    "section": "Education and Work Experience",
-    "text": "Education and Work Experience\nDoctoral Student at Columbia University | New York, NY\nSep. 2022 - Present\nPhD Candidate in Earth and Environmental Sciences  Expected Graduation: Summer 2027\nAdvisor: Radley Horton, Columbia Climate School\nSenior Engineer at Qualcomm, Inc | San Diego, CA\nAug. 2019 - Jun. 2022\nPrimary job duties included:\n\nDeveloping test automation procedures and software for 4G and 5G RF conformance testing\nConducting performance testing on new chipsets for internal and external clients\nManaging and collaborating with internal and external teams to resolve urgent performance issues\n\nUniversity of Maryland, College Park | College Park, MD\nAug. 2015 - May 2019\nB.S. in Electrical Engineering, Minor in Asian-American Studies\nGPA: 3.95/4.0, Cum Laude\nBanneker-Key Full Merit Scholarship"
+    "text": "Hi! My name is Trinish and I’m a PhD Candidate studying extreme events under a changing climate. I used to be an electrical engineer in the telecom industry before switching fields to pursue my passion: figuring out how we can adapt to a warming, riskier world.\nHave a question, interest in collaboration, or just want to connect? I’d love to hear from you!"
   },
   {
     "objectID": "index.html#research-interests",
@@ -61,5 +19,26 @@
     "title": "Trinish Chatterjee",
     "section": "Current Projects",
     "text": "Current Projects\n\n\nSpatial Scales of Daily Extreme Precipitation in the US and Globally\n\n\n\n\n\nLarge-area extreme preciptiation events can highly damaging and can cause numerous risks to emergency response, disaster preparedness, insurance portfolio management, local and downstream flood risk, community resilience. We aim to identify climatology and trends of the area affected by individual daily extreme precipitation events in the US and globally using event-based geospatial analyses of gridded preciptiation data. Our study of spatial scales of extreme precipitation event areas in the US is under review at Geophysical Research Letters. (Find our preprint here!)\n\n\n\n\nSpatial Scales of Humid Heatwaves in the Southwest US and Northwest Mexico\n\n\n\n\n\nWe are working to understand how dry and humid heatwaves are changing across the western half of the US–Mexico Border Region using geospatial methods. Using gridded reanalyses and an event-based framework, we are examining whether humid/nighttime heat stress events are becoming more widespread or penetrating farther inland, with direct implications for cross-border public health and humanitarian risk in a warming climate.\n\n\n\n\nGlobal Data Justice and Quantifying the Intensity of Current and Future Rare Extreme Events\n\n\n\n\n\nWe examine how unequal lengths of weather records around the world limit our ability to reliably estimate rare extreme events, such as 1-in-100-year event for heat or rainfall, using a generalized extreme value (GEV) framework. By combining extreme value theory, simulations, and real-world data constraints, we are showing how data scarcity and the underlying climate together amplify uncertainty in high-impact risk estimates, with disproportionate consequences for regions in the Global South and other data-poor areas."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Trinish Chatterjee",
+    "section": "Publications",
+    "text": "Publications\nChatterjee, T., Touma, D., Sobel, A. H., & Horton, R. (in review). Climatology and Trends in Spatial Scales of Extreme Precipitation in the Contiguous US. Geophysical Research Letters. Preprint Available from: https://essopenarchive.org/doi/full/10.22541/essoar.176518093.32879629\nSeeteram, N., Shi, L., Mach, K., Carrère, A., Chatterjee, T., Garner, A., & Horton, R. (2025, pre-publication). Challenges and opportunities in scaling climate-resilient housing solutions. Nature Communications. https://doi.org/10.21203/rs.3.rs-6322825/v1\nSprague, N. L., Uong, S. P., Zonnevylle, H., Chatterjee, T., Hernández, D., Rundle, A. G., & Ekenga, C. C. (2024). The CHANGE (Climate Health ANalysis Grading Evaluation) tool for weight of evidence reviews on climate change and health research. Environmental Health, 23(1), 7. https://doi.org/10.1186/s12940-023-01040-4"
+  },
+  {
+    "objectID": "index.html#education-and-work-experience",
+    "href": "index.html#education-and-work-experience",
+    "title": "Trinish Chatterjee",
+    "section": "Education and Work Experience",
+    "text": "Education and Work Experience\nDoctoral Student at Columbia University | New York, NY\nSep. 2022 - Present\nPhD Candidate in Earth and Environmental Sciences  Expected Graduation: Summer 2027\nAdvisor: Radley Horton, Columbia Climate School\nSenior Engineer at Qualcomm, Inc | San Diego, CA\nAug. 2019 - Jun. 2022\nPrimary job duties included:\n\nDeveloping test automation procedures and software for 4G and 5G RF conformance testing\nConducting performance testing on new chipsets for internal and external clients\nManaging and collaborating with internal and external teams to resolve urgent performance issues\n\nUniversity of Maryland, College Park | College Park, MD\nAug. 2015 - May 2019\nB.S. in Electrical Engineering, Minor in Asian-American Studies\nGPA: 3.95/4.0, Cum Laude\nBanneker-Key Full Merit Scholarship"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
