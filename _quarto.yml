@@ -4,6 +4,7 @@ project:
 
 website:
   navbar:
+    search: false
     tools:
     - icon: envelope-open
       text: Email me at tc3217@columbia.edu!
