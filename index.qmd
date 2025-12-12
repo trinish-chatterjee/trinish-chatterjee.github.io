@@ -12,7 +12,7 @@ about:
       href: https://scholar.google.com/citations?user=MbypB20AAAAJ&hl=en&authuser=1&oi=ao
     - icon: bluesky
       text: bluesky
-      href: https://bluesky.com
+      href: https://bsky.app/
     - icon: github
       text: Github
       href: https://github.com/trinish-chatterjee
@@ -41,7 +41,7 @@ Have a question, interest in collaboration, or just want to connect? I'd love to
   </a>
 
   <a class="btn btn-outline-secondary btn-sm"
-     href="https://bluesky.com"
+     href="https://bsky.app/"
      target="_blank">
     <i class="bi bi-bluesky"></i>
     Bluesky (Under Construction!)
