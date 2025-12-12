@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  navbar:
+    tools:
+    - icon: envelope-open
+      text: Email me at tc3217@columbia.edu!
+      href: mailto:tc3217@columbia.edu
+    - icon: journals
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=MbypB20AAAAJ&hl=en&authuser=1&oi=ao
+    - icon: bluesky
+      text: bluesky
+      href: https://bluesky.com
+    - icon: github
+      text: Github
+      href: https://github.com/trinish-chatterjee
+    - icon: person-check
+      text: ORCiD
+      href: https://orcid.org/0009-0009-5242-911X
+
+format:
+  html:
+    theme:
+      - yeti
+    css: styles.css
+    toc: true
+
+
+
