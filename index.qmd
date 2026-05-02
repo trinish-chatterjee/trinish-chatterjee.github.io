@@ -19,126 +19,168 @@ about:
     - icon: person-check
       text: ORCiD
       href: https://orcid.org/0009-0009-5242-911X
-
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-Hi! My name is Trinish and I'm a PhD Candidate studying **extreme events** under a **changing climate**. I used to be an electrical engineer in the telecom industry before switching fields to pursue my passion: **figuring out how we can adapt to a warming, riskier world**. 
+Hi! My name is Trinish and I'm a PhD Candidate studying **extreme
+events** under a **changing climate**. I used to be an electrical
+engineer in the telecom industry before switching fields to pursue my
+passion: **figuring out how we can adapt to a warming, riskier world**.
 
-Have a question, interest in collaboration, or just want to connect? I'd love to hear from you! 
+Have a question, interest in collaboration, or just want to connect? I'd
+love to hear from you!
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-  <a class="btn btn-outline-secondary btn-sm"
+::: {style="display: flex; flex-wrap: wrap; gap: 0.5rem;"}
+<a class="btn btn-outline-secondary btn-sm"
      href="mailto:tc3217@columbia.edu">
-    <i class="bi bi-envelope-open"></i>
-    Email me at tc3217@columbia.edu
-  </a>
+<i class="bi bi-envelope-open"></i> Email me at tc3217\@columbia.edu
+</a>
 
-  <a class="btn btn-outline-secondary btn-sm"
+<a class="btn btn-outline-secondary btn-sm"
      href="https://scholar.google.com/citations?user=MbypB20AAAAJ&hl=en&authuser=1&oi=ao"
-     target="_blank">
-    <i class="bi bi-journals"></i>
-    Google Scholar
-  </a>
+     target="_blank"> <i class="bi bi-journals"></i> Google Scholar </a>
 
-  <a class="btn btn-outline-secondary btn-sm"
+<a class="btn btn-outline-secondary btn-sm"
      href="https://bsky.app/profile/trinish-chatterjee.bsky.social"
-     target="_blank">
-    <i class="bi bi-bluesky"></i>
-    Bluesky
-  </a>
+     target="_blank"> <i class="bi bi-bluesky"></i> Bluesky </a>
 
-  <a class="btn btn-outline-secondary btn-sm"
+<a class="btn btn-outline-secondary btn-sm"
      href="https://github.com/trinish-chatterjee"
-     target="_blank">
-    <i class="bi bi-github"></i>
-    GitHub
-  </a>
+     target="_blank"> <i class="bi bi-github"></i> GitHub </a>
 
-  <a class="btn btn-outline-secondary btn-sm"
+<a class="btn btn-outline-secondary btn-sm"
      href="https://orcid.org/0009-0009-5242-911X"
-     target="_blank">
-    <i class="bi bi-person-check"></i>
-    ORCID
-  </a>
-</div>
-
-
+     target="_blank"> <i class="bi bi-person-check"></i> ORCID </a>
+:::
 
 ## Research Interests
 
-My research focuses on quantifying spatiotemporal characteristics of extreme precipitation and extreme heat events at local, regional, and global scales. I'm currently trying to understand:
+My research focuses on quantifying spatiotemporal characteristics of
+extreme precipitation and extreme heat events at local, regional, and
+global scales. I'm currently trying to understand:
 
-1. How the spatial scales of extreme events are changing over time in the US and globally, and
-2. How we can better characterize the probability distributions of extreme events.
+1.  How the spatial scales of extreme events are changing over time in
+    the US and globally, and
+2.  How we can better characterize the probability distributions of
+    extreme events.
 
 I am interested in applying my research towards:
 
-* Developing new methods to assess the tail risks of rare weather events
-* Quantifying exposure to climate hazards
-* Informing future climate adaptation decisions
+-   Developing new methods to assess the tail risks of rare weather
+    events
+-   Quantifying exposure to climate hazards
+-   Informing future climate adaptation decisions
 
 ## Current Projects
+
 <section style="overflow: auto; margin-bottom: 2rem;">
 
-  <h4>Spatial Scales of Daily Extreme Precipitation in the US and Globally</h4>
-  
-  <figure style="float: left; width: 35%; max-width: 350px; margin: 0 1rem 0 0;">
-  
-    <img src="brooklyn_umbrella.jpg" style="width: 100%;" alt="Brooklyn umbrella">
-    
-  </figure>
-  <p>
-    Large-area extreme preciptiation events can highly damaging and can cause numerous risks to emergency response, disaster preparedness, insurance portfolio management, local and downstream flood risk, community resilience. We aim to identify climatology and trends of the area affected by individual daily extreme precipitation events in the US and globally using event-based geospatial analyses of gridded preciptiation data. Our study of spatial scales of extreme precipitation event areas in the US is under review at <em>Geophysical Research Letters</em>. <a href="https://essopenarchive.org/users/988773/articles/1366178-climatology-and-trends-in-spatial-scales-of-extreme-precipitation-in-the-contiguous-us">(Find our preprint here!)</a>
-  </p>
+<h4>Spatial Scales of Daily Extreme Precipitation in the US and
+Globally</h4>
+
+<figure style="float: left; width: 35%; max-width: 350px; margin: 0 1rem 0 0;">
+
+<img src="brooklyn_umbrella.jpg" alt="Brooklyn umbrella" style="width: 100%;"/>
+
+</figure>
+
+<p>Large-area extreme preciptiation events can highly damaging and can
+cause numerous risks to emergency response, disaster preparedness,
+insurance portfolio management, local and downstream flood risk,
+community resilience. We aim to identify climatology and trends of the
+area affected by individual daily extreme precipitation events in the US
+and globally using event-based geospatial analyses of gridded
+preciptiation data. Our study of spatial scales of extreme precipitation
+event areas in the US is under review at <em>Geophysical Research
+Letters</em>.
+<a href="https://essopenarchive.org/users/988773/articles/1366178-climatology-and-trends-in-spatial-scales-of-extreme-precipitation-in-the-contiguous-us">(Find
+our preprint here!)</a></p>
+
 </section>
 
 <section style="overflow: auto; margin-bottom: 2rem;">
-  <h4>Spatial Scales of Humid Heatwaves in the Southwest US and Northwest Mexico</h4>
-  <figure style="float: right; width: 35%; max-width: 350px; margin: 0 0 1rem 1rem;">
-    <img src="US_Mexico_Border.jpg" style="width: 100%;" alt="Brooklyn umbrella">
-  </figure>
-  <p>
-    We are working to understand how dry and humid heatwaves are changing across the western half of the US–Mexico Border Region using geospatial methods. Using gridded reanalyses and an event-based framework, we are examining whether humid/nighttime heat stress events are becoming more widespread or penetrating farther inland, with direct implications for cross-border public health and humanitarian risk in a warming climate. 
-  </p>
+
+<h4>Spatial Scales of Humid Heatwaves in the Southwest US and Northwest
+Mexico</h4>
+
+<figure style="float: right; width: 35%; max-width: 350px; margin: 0 0 1rem 1rem;">
+
+<img src="US_Mexico_Border.jpg" alt="Brooklyn umbrella" style="width: 100%;"/>
+
+</figure>
+
+<p>We are working to understand how dry and humid heatwaves are changing
+across the western half of the US–Mexico Border Region using geospatial
+methods. Using gridded reanalyses and an event-based framework, we are
+examining whether humid/nighttime heat stress events are becoming more
+widespread or penetrating farther inland, with direct implications for
+cross-border public health and humanitarian risk in a warming
+climate.</p>
+
 </section>
 
 <section style="overflow: auto; margin-bottom: 2rem;">
-  <h4>Global Data Justice and Quantifying the Intensity of Current and Future Rare Extreme Events</h4>
-  <figure style="float: left; width: 35%; max-width: 350px; margin: 0 1rem 0 0;">
-    <img src="GHCN_Temperature_Stations.png" style="width: 100%;" alt="Brooklyn umbrella">
-  </figure>
-  <p>
-    We examine how unequal lengths of weather records around the world limit our ability to reliably estimate rare extreme events, such as 1-in-100-year event for heat or rainfall, using a generalized extreme value (GEV) framework. By combining extreme value theory, simulations, and real-world data constraints, we are showing how data scarcity and the underlying climate together amplify uncertainty in high-impact risk estimates, with disproportionate consequences for regions in the Global South and other data-poor areas. 
-  </p>
+
+<h4>Global Data Justice and Quantifying the Intensity of Current and
+Future Rare Extreme Events</h4>
+
+<figure style="float: left; width: 35%; max-width: 350px; margin: 0 1rem 0 0;">
+
+<img src="GHCN_Temperature_Stations.png" alt="Brooklyn umbrella" style="width: 100%;"/>
+
+</figure>
+
+<p>We examine how unequal lengths of weather records around the world
+limit our ability to reliably estimate rare extreme events, such as
+1-in-100-year event for heat or rainfall, using a generalized extreme
+value (GEV) framework. By combining extreme value theory, simulations,
+and real-world data constraints, we are showing how data scarcity and
+the underlying climate together amplify uncertainty in high-impact risk
+estimates, with disproportionate consequences for regions in the Global
+South and other data-poor areas.</p>
+
 </section>
 
 ## Publications
 
-**Chatterjee, T.**, Touma, D., Sobel, A. H., & Horton, R. (*in review*). Climatology and Trends in Spatial Scales of Extreme Precipitation in the Contiguous US. *Geophysical Research Letters*.  Preprint Available from: [https://essopenarchive.org/doi/full/10.22541/essoar.176518093.32879629](https://essopenarchive.org/doi/full/10.22541/essoar.176518093.32879629)
+**Chatterjee, T.**, Touma, D., Sobel, A., & Horton, R. M. (2026).
+Climatology and Trends in Spatial Scales of Extreme Precipitation Over
+Land in the Contiguous US. *Geophysical Research Letters*, *53*(8),
+e2025GL120662. <https://doi.org/10.1029/2025GL120662>
 
-Seeteram, N., Shi, L., Mach, K., Carrère, A., **Chatterjee, T.**, Garner, A., & Horton, R. (2025, *pre-publication*). Challenges and opportunities in scaling climate-resilient housing solutions. *Nature Communications*. [https://doi.org/10.21203/rs.3.rs-6322825/v1](https://doi.org/10.21203/rs.3.rs-6322825/v1)
+Seeteram, N., Shi, L., Mach, K., Carrère, A., **Chatterjee, T.**,
+Garner, A., & Horton, R. (2025, *pre-publication*). Challenges and
+opportunities in scaling climate-resilient housing solutions. *Nature
+Communications*. <https://doi.org/10.21203/rs.3.rs-6322825/v1>
 
-
-Sprague, N. L., Uong, S. P., Zonnevylle, H., **Chatterjee, T.**, Hernández, D., Rundle, A. G., & Ekenga, C. C. (2024). The CHANGE (Climate Health ANalysis Grading Evaluation) tool for weight of evidence reviews on climate change and health research. *Environmental Health*, 23(1), 7. [https://doi.org/10.1186/s12940-023-01040-4](https://doi.org/10.1186/s12940-023-01040-4)
-
+Sprague, N. L., Uong, S. P., Zonnevylle, H., **Chatterjee, T.**,
+Hernández, D., Rundle, A. G., & Ekenga, C. C. (2024). The CHANGE
+(Climate Health ANalysis Grading Evaluation) tool for weight of evidence
+reviews on climate change and health research. *Environmental Health*,
+23(1), 7. <https://doi.org/10.1186/s12940-023-01040-4>
 
 ## Education and Work Experience
 
-**Doctoral Student at Columbia University** | New York, NY\
+**Doctoral Student at Columbia University** \| New York, NY\
 Sep. 2022 - Present\
-PhD Candidate in Earth and Environmental Sciences\ 
-*Expected Graduation*: Summer 2027\
+PhD Candidate in Earth and Environmental Sciences  *Expected
+Graduation*: Summer 2027\
 *Advisor*: Radley Horton, Columbia Climate School
 
-**Senior Engineer at Qualcomm, Inc** | San Diego, CA\
+**Senior Engineer at Qualcomm, Inc** \| San Diego, CA\
 Aug. 2019 - Jun. 2022\
 Primary job duties included:
 
-- Developing test automation procedures and software for 4G and 5G RF conformance testing 
-- Conducting performance testing on new chipsets for internal and external clients
-- Managing and collaborating with internal and external teams to resolve urgent performance issues 
+-   Developing test automation procedures and software for 4G and 5G RF
+    conformance testing
+-   Conducting performance testing on new chipsets for internal and
+    external clients
+-   Managing and collaborating with internal and external teams to
+    resolve urgent performance issues
 
-**University of Maryland, College Park** | College Park, MD\
+**University of Maryland, College Park** \| College Park, MD\
 Aug. 2015 - May 2019\
 B.S. in Electrical Engineering, Minor in Asian-American Studies\
 *GPA*: 3.95/4.0, Cum Laude\
